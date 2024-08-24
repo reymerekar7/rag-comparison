@@ -12,7 +12,7 @@ This is a repository with a streamlit application to compare RAG performance and
 - Enter your respective API key
 - Upload a pdf, it will be parsed and embeddings will be generated
 - Start chatting with your docs!
-- In addition to an answer, there is another tab where you can see the top 3 pieces of retrieved context for the RAG pipeline along with the similarity scores
+  - In addition to an answer, there is another tab where you can see the top 3 pieces of retrieved context for the RAG pipeline along with the similarity scores
 
 
 
