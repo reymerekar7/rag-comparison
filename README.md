@@ -4,7 +4,7 @@ This is a repository with a streamlit application to compare RAG performance and
 
 ## Start-up
 - Clone the repository
-- Create new virtual environment and install the dependencies from requirements.txt
+- Create a new python virtual environment and install the dependencies from requirements.txt
 - Command to run the streamlit app: ```streamlit run streamlit_comparison_app_v3.py```
 
 ## App Usage
